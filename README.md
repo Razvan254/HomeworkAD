@@ -17,7 +17,7 @@ gcc homework.c -o homework
 
 To run the Python implementation, simply execute:
 
-python homework.py
+python main.py
 
 To generate random datasets for testing, compile and run datasets.c:
 
