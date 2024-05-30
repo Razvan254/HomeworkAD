@@ -5,7 +5,7 @@ This repository contains the code for a dynamic programming algorithm implemente
 Files:
 
     homework.c: This file contains the C implementation of the dynamic programming algorithm for resource allocation. It includes functions for dividing books among employees and calculating the optimal allocation.
-    homework.py: This file contains the Python implementation of the same dynamic programming algorithm as in homework.c. It provides a translation of the C code into Python, ensuring the same functionality.
+    main.py: This file contains the Python implementation of the same dynamic programming algorithm as in homework.c. It provides a translation of the C code into Python, ensuring the same functionality.
     datasets.c: This file contains the C code to generate random datasets for testing the algorithm. It randomly generates the number of books and assigns a random number of pages to each book, simulating real-world scenarios.
 
 Usage:
